@@ -1,0 +1,2 @@
+C:\Users\otkyu\OneDrive - 日本大学\lab\Unity 2017.2.1f1 (64-bit)\testAPI\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\otkyu\OneDrive - 日本大学\lab\Unity 2017.2.1f1 (64-bit)\testAPI\App\testAPI\testAPI.csproj;x86
